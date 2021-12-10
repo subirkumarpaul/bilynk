@@ -28,7 +28,7 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = 6TVW1avMbonKKL-pbkA1m60uIxokdF1X;
+char auth[] = hHBsm86vYfGpJf605bzncvtE8ASSNNJh;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
